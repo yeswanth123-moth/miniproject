@@ -1,1 +1,1 @@
-# miniproject
+stock management system
